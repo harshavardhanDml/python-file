@@ -10,3 +10,4 @@ b1 = book("1984", "George Orwell", 1949)
 b2 = book("To Kill a Mockingbird", "Harper Lee", 1960)
 print(b1.get_info())
 print(b2.get_info())
+#class and object 
