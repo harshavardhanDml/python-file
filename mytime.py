@@ -14,6 +14,9 @@ def mytime():
 mytime()
 mytime()
 mytime()
+mytime()
+
+
 #Time taken to execute the program
 
 
